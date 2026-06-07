@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Senior Full-Stack Developer",
+        "description": "We are seeking an experienced Senior Full-Stack Developer to lead the architecture of our core web platform. You will be responsible for designing secure back-end APIs in Python/FastAPI, writing scalable client-side interfaces in React.js, and deploying dockerized containers on AWS. Passion for performance, code coverage, and mentoring junior engineers is a must.",
+        "required_skills": [
+            "Python",
+            "React",
+            "FastAPI",
+            "PostgreSQL",
+            "Docker",
+            "AWS",
+            "TypeScript"
+        ],
+        "experience_required": 5.0,
+        "qualifications": "Bachelor's or Master's degree in Computer Science or equivalent technical field."
+    },
+    {
+        "title": "Cloud DevOps & Platform Architect",
+        "description": "Looking for a seasoned DevOps Architect to deploy and scale containerized clusters. The ideal candidate will have deep expertise in Kubernetes, orchestrating deployments using Terraform and Helm, and creating standard DevSecOps delivery pipelines in AWS or GCP environments. Strong scripting skills in Python or Go are highly desirable.",
+        "required_skills": [
+            "AWS",
+            "Kubernetes",
+            "Docker",
+            "Terraform",
+            "CI/CD",
+            "Python",
+            "Linux"
+        ],
+        "experience_required": 8.0,
+        "qualifications": "Degree in Computer Engineering or proven industry experience in systems engineering."
+    }
+]
